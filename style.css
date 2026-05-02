@@ -37,7 +37,15 @@ h2{
     margin-top: 3rem;
     padding: 1rem 4rem;
     min-width: 32rem;
-    border-radius: 18px;
+    border-radius: 16px;
     background:#00bfff;
     color: #e6f7ff;
+}
+
+input{
+    border: 0;
+    background: #e6f7ff;
+    font-size: 3rem;
+    padding: 2rem 4rem;
+    border-radius: 12px;
 }
